@@ -9,6 +9,8 @@
   
 Intérêts Sujets
 💬 Algorithms| Programming| Web|Database|AI| DevOps|Cybersecurity|
+
+Compétences
 HTML5 ★★★★★, CSS3 ★★★★★ JAVASCRIPT ★★★★★, PYTHON ★★★★★, REACT ★★★★★, DJANGO ★★★★★, DOCKER ★★★★★, GIT ★★★★★
 POSTSQL ★★★★★, MYSQL ★★★★★, 
 
